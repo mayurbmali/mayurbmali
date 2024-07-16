@@ -1,4 +1,4 @@
-# Shashi Raj&nbsp;<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
+# Mayur Mali&nbsp;<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
 
 <img align="right" alt="PC GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/PC.gif" width="190" />
 
@@ -6,8 +6,8 @@
 
 <p>
   <em>
-    A Passionate <b>Programmer</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Developer.gif" width="30px"> and a <b>code Enthusiast </b>&nbsp;<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Designer.gif" width="36px">, Graduated from <a href="https://hithaldia.ac.in/"> <b><span>Haldia Institute Of Technology</span></b></a>, who believes in solving the 
-      <b>Real World Problems</b> using <b>Programming</b> and <b>Software</b>. Currently working as Software Engineer,
+    A Passionate <b>Programmer</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Developer.gif" width="30px"> and a <b>code Enthusiast </b>&nbsp;<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Designer.gif" width="36px">, Graduated from <a href="http://www.unipune.ac.in/"> <b><span>Savitribai Phule Pune University</span></b></a>,Currently persuing Masters of Computer Application at <a href="https://mitwpu.edu.in/"> <b><span>MIT World Peace University</span></b></a> who believes in solving the 
+      <b>Real World Problems</b> using <b>Programming</b> and <b>Software</b>. currently expanding my knowledge in DevOps practices and tools to complement my software development skills.
     <b>Improving Skills</b> and 
     <b>excelling</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Medal.gif" width="20px"> in the profession
   </em>  
@@ -15,20 +15,19 @@
 
 <br>
 
-- 🔭 *Currently Working on* **Ecommerce Projects**
-- <img alt="GIF" src="https://user-images.githubusercontent.com/34605595/210514091-d5e9d26e-66ed-4676-bbe8-5e1ef5bd7dfe.gif" width="40px" /> Visit our Youtube Channel [**Bitter Code**](https://www.youtube.com/@bittercode?sub_confirmation=1)
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/wave.gif" width="20px" /> *Currently learning* **Amazon Web Services** 👨‍💻
+- 🔭 *Currently Working on* **Ecommerce Project**
+- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/wave.gif" width="20px" /> *Currently learning* **Devops Engineering** 👨‍💻
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/headbang.gif" width="20px" /> *Looking to collaborate* on **Open Source programs** 
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/hmm.gif" width="20px" /> *Always available* to *help*  **Learners**
+- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/hmm.gif" width="20px" /> *Always Striving* to   **Learn**
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he)
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/coin.gif" width="20px" /> **Fun fact:** *More productive while listening Music* 🎧
-- 📫 How to reach: **shashiraj.972@gmail.com** 📧
+- 📫 How to reach: **mayurbmali70@gmail.com**📧
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashirajraja&label=Profile%20views&color=0e75b6&style=flat" alt="shashirajraja" /> </p>
-<br>
+/*<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashirajraja&label=Profile%20views&color=0e75b6&style=flat" alt="shashirajraja" /> </p>
+<br>*/
 
 
-<table>
+/*<table>
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=shashirajraja&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
@@ -60,13 +59,12 @@ Youtube Channel: [Bitter Code](https://www.youtube.com/@bittercode?sub_confirmat
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-    
+*/
 # Connect with me<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Handshake.gif" height="32px">
 
 <p align="left">
-  <a href="https://www.youtube.com/@bittercode?sub_confirmation=1" target="_blank"><img alt="GIF" src="https://www.seminarsonly.com/news/wp-content/uploads/2021/09/youtube.jpg" width="90"/> </a>
- <a href="mailto:shashiraj.972@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="shashirajraja" height="30" width="40"/></a>
-  <a href="https://linkedin.com/in/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashirajraja" height="30" width="40" /></a>
+ <a href="mailto:mayurbmali70@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="shashirajraja" height="30" width="40"/></a>
+  <a href="https:// linkedin.com/in/mayur-mali-653b56242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashirajraja" height="30" width="40" /></a>
  <a href="https://instagram.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashirajraja" height="30" width="40" /></a>  
  <a href="https://twitter.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashirajraja" height="30" width="40" /></a>
  <a href="https://www.hackerearth.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shashirajraja" height="30" width="40" /></a>
