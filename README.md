@@ -14,13 +14,12 @@
 </p>
 <br>
 - 🔭 *Currently Working on* **Ecommerce Project**
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/wave.gif" width="20px" /> *Currently learning* **Devops Practices and tools** 👨‍💻
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/headbang.gif" width="20px" /> *Looking to Learning to collaborate* on **Open Source** 
+- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/wave.gif" width="20px" /> *Currently learning* **Devops Engineering** 👨‍💻
+- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/headbang.gif" width="20px" /> *Looking to collaborate* on **Open Source programs** 
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/hmm.gif" width="20px" /> *Always Striving* to   **Learn**
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he)
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/coin.gif" width="20px" /> **Fun fact:** *More productive while listening Music* 🎧
 - 📫 How to reach: **mayurbmali70@gmail.com**📧
-
 
 
 
