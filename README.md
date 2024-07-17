@@ -12,12 +12,10 @@
     <b>excelling</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Medal.gif" width="20px"> in the profession
   </em>  
 </p>
-
 <br>
-
 - 🔭 *Currently Working on* **Ecommerce Project**
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/wave.gif" width="20px" /> *Currently learning* **Devops Engineering** 👨‍💻
-- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/headbang.gif" width="20px" /> *Looking to collaborate* on **Open Source programs** 
+- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/wave.gif" width="20px" /> *Currently learning* **Devops Practices and tools** 👨‍💻
+- <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/headbang.gif" width="20px" /> *Looking to Learning to collaborate* on **Open Source** 
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/hmm.gif" width="20px" /> *Always Striving* to   **Learn**
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he)
 - <img alt="GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/coin.gif" width="20px" /> **Fun fact:** *More productive while listening Music* 🎧
@@ -31,10 +29,10 @@
 <p align="left">
  <a href="mailto:mayurbmali70@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="shashirajraja" height="30" width="40"/></a>
   <a href="https:// linkedin.com/in/mayur-mali-653b56242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashirajraja" height="30" width="40" /></a>
- <a href="https://instagram.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashirajraja" height="30" width="40" /></a>  
- <a href="https://twitter.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashirajraja" height="30" width="40" /></a>
- <a href="https://www.hackerearth.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shashirajraja" height="30" width="40" /></a>
- <a href="https://www.hackerrank.com/shashirajraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shashirajraja" height="30" width="40" /></a>  
+ <a href="https://www.instagram.com/mayur_.mali_?igsh=M2UzZmo2bHZkdnk5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashirajraja" height="30" width="40" /></a>  
+ <a href="https://x.com/MorrMali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashirajraja" height="30" width="40" /></a>
+ <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shashirajraja" height="30" width="40" /></a>
+ <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shashirajraja" height="30" width="40" /></a>  
 
 </p>
 <br>
@@ -49,6 +47,4 @@
 
 
 
-### Support
-<p align="left"><a href=""> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mayurmali" /></a></p>
-<br><br>
+
